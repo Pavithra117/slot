@@ -27,7 +27,6 @@ Execute the program using runserver command.
 ```
 <html>
 <body>
-<img src="logo.png" width="700" height="200">
     <head>
         <title align="center">SLOT TIMETABLE</title>
     </head>
